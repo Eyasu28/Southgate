@@ -2,3 +2,20 @@ body{
     background: #F0EDE3;
     padding : 0 
 }
+/* @font-face{
+    font-family : 'great-vibes';
+    src : url('./Fonts/GreatVibes-Regular.ttf');
+  }
+  @font-face{
+    font-family : 'a Atmospheric';
+    src : url('./Fonts/aAtmospheric.ttf');
+  }
+  
+.atmospheric{
+    font-family : 'a Atmospheric'
+  }
+  
+  .great{
+    font-family : 'great-vibes';
+  } */
+  
